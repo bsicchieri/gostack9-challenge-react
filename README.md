@@ -10,3 +10,9 @@
 
 ## About
 Create an application from scratch using Webpack, Babel, Webpack Dev Server, and ReactJS. Develop a similar interface with Facebook using React.
+
+## Application Screen - Example
+
+<h1 align="center">
+    <img alt="GoStack" src=".github/facebook.png" width="200px" />
+</h1>
