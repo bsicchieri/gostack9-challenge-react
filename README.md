@@ -14,5 +14,5 @@ Create an application from scratch using Webpack, Babel, Webpack Dev Server, and
 ## Application Screen - Example
 
 <h1 align="center">
-    <img alt="GoStack" src=".github/facebook.png" width="200px" />
+    <img alt="GoStack" src=".github/facebook.png" width="1000px" />
 </h1>
